@@ -4,32 +4,32 @@ const posts = [
     {
         title: 'Para Além do "Usar a Internet": O que é o Pensamento Computacional e por que a SBC insiste tanto nele?',
         tags: ["#SBC", "#pensamentocomputacional"],
-        image: "src/assets/pensamento.png",
+        image: "https://iili.io/KHRTV1e.md.png",
     },
     {
         title: "Gamificação: 5 Estratégias para Aumentar o Engajamento (que não são apenas joguinhos)",
         tags: ["#Gamificacao", "#MetodologiasAtivas", "#EngajamentoEscolar", "#EdTech"],
-        image: "src/assets/gamificacao.png",
+        image: "https://iili.io/KHRoGS4.md.png",
     },
     {
         title: "O Desafio da Conexão: Histórias de Escolas Rurais que Inovam Apesar da Desigualdade Digital",
         tags: ["#InclusãoDigital", "#DesigualdadeSocial", "#EducaçãoRural", "#PolíticasPúblicas"],
-        image: "src/assets/inovacao.png",
+        image: "https://iili.io/KHRE1hg.md.png",
     },
     {
         title: "Ferramentas Digitais Gratuitas que Todo Professor Deveria Conhecer em 2025",
         tags: ["#FerramentasDigitais", "#TecnologiaEducacional", "#SoftwareLivre", "#Professores"],
-        image: "src/assets/ferramentas.png",
+        image: "https://iili.io/KHREVEv.md.png",
     },
     {
         title: '"Professor, isso é para hoje?" - A Formação Docente na Era Digital',
         tags: ["#FormaçãoDeProfessores", "#CapacitaçãoDocente", "#LetramentoDigital", "#Desafios" ],
-        image: "src/assets/profs.png",
+        image: "https://iili.io/KHRT0I2.md.png",
     },
     {
         title: "Privacidade em Risco: Como Proteger os Dados dos Alunos na Era das Plataformas Educacionais?",
         tags: ["#SegurançaDigital", "#LGPD", "#CidadaniaDigital", "#Privacidade"],
-        image: "src/assets/seguranca.png",
+        image: "https://iili.io/KHRTSB1.md.png",
     },
 ];
 
