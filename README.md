@@ -1,69 +1,66 @@
-# React + TypeScript + Vite
+# Hipermídia Techno Edu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub repo size](https://img.shields.io/github/repo-size/kaudotdev/hipermidia-techno-edu)
+![GitHub issues](https://img.shields.io/github/issues/kaudotdev/hipermidia-techno-edu)
+![GitHub stars](https://img.shields.io/github/stars/kaudotdev/hipermidia-techno-edu)
+![GitHub license](https://img.shields.io/github/license/kaudotdev/hipermidia-techno-edu)
+![GitHub last commit](https://img.shields.io/github/last-commit/kaudotdev/hipermidia-techno-edu)
 
-Currently, two official plugins are available:
+## 🚀 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O **Hipermídia Techno Edu** é um projeto dedicado ao desenvolvimento de recursos educacionais inovadores utilizando tecnologias de hipermídia para potencializar o processo de ensino-aprendizagem.
 
-## Expanding the ESLint configuration
+## 🧩 Funcionalidades
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- Integração de múltiplos tipos de mídia (áudio, vídeo, texto, imagens)
+- Navegação não linear por conteúdos
+- Ferramentas interativas para aprendizagem ativa
+- Personalização de trilhas de estudo
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## ⚙️ Tecnologias Utilizadas
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- (Adicione outras tecnologias conforme necessário)
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## 📂 Estrutura do Projeto
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── styles/
+└── utils/
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🏁 Como rodar o projeto
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+```bash
+# Clone este repositório
+git clone https://github.com/kaudotdev/hipermidia-techno-edu.git
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Acesse a pasta do projeto
+cd hipermidia-techno-edu
+
+# Instale as dependências
+npm install
+
+# Rode a aplicação
+npm start
 ```
+
+## 🤝 Contribuição
+
+Sinta-se à vontade para contribuir! Abra uma issue ou envie um pull request.
+
+## 📄 Licença
+
+Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
+
+Desenvolvido com 💜 por [kaudotdev](https://github.com/kaudotdev)
