@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoFerramentasDigitais: React.FC = () => (
     <ArticlePage
         title="Ferramentas Digitais Gratuitas que Todo Professor Deveria Conhecer em 2025"
-        image="src/assets/ferramentas.png"
+        image="https://i.postimg.cc/zD0yRjvX/ferramentas.webp"
         tags={["#FerramentasDigitais", "#TecnologiaEducacional", "#SoftwareLivre", "#Professores"]}
     >
       <div className="text-base text-justify text-[#403D5C] space-y-5">
