@@ -26,35 +26,35 @@ export default function HeroSection() {
                     <div className="grid grid-cols-3 grid-rows-3 gap-4 w-[280px] sm:w-[380px] h-[220px] sm:h-[300px]">
                         <div className="col-span-2 row-span-2 rounded-3xl overflow-hidden shadow">
                             <img
-                                src="https://iili.io/KHREzhu.md.jpg"
+                                src="https://i.postimg.cc/yxb6pL3m/hero-tablet.webp"
                                 alt="Crianças usando tablet"
                                 className="object-cover w-full h-full"
                             />
                         </div>
                         <div className="col-span-1 row-span-1 rounded-2xl overflow-hidden shadow">
                             <img
-                                src="https://iili.io/KHRExIe.md.png"
+                                src="https://i.postimg.cc/25Ryf9cT/hero-robot.webp"
                                 alt="Mãos com robô"
                                 className="object-cover w-full h-full"
                             />
                         </div>
                         <div className="col-span-1 row-span-1 rounded-2xl overflow-hidden shadow">
                             <img
-                                src="https://iili.io/KHREq22.md.jpg"
+                                src="https://i.postimg.cc/nrzc1yrV/hero-sala-tablets.webp"
                                 alt="Sala com tablets"
                                 className="object-cover w-full h-full"
                             />
                         </div>
                         <div className="col-span-1 row-span-1 rounded-2xl overflow-hidden shadow">
                             <img
-                                src="https://iili.io/KHREILb.md.png"
+                                src="https://i.postimg.cc/gkjnyZLy/hero-filha.webp"
                                 alt="Menino com robô"
                                 className="object-cover w-full h-full"
                             />
                         </div>
                         <div className="col-span-2 row-span-1 rounded-3xl overflow-hidden shadow">
                             <img
-                                src="https://iili.io/KHREnp9.md.png"
+                                src="https://i.postimg.cc/13NX21Hf/hero-laptop.webp"
                                 alt="Aluna usando laptop"
                                 className="object-cover w-full h-full"
                             />
