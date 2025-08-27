@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoPensamentoComputacional: React.FC = () => (
   <ArticlePage
     title='Para Além do "Usar a Internet": O que é o Pensamento Computacional e por que a SBC insiste tanto nele?'
-    image="src/assets/pensamento.png"
+    image="https://i.postimg.cc/L8f4vB9P/pensamento.webp"
     tags={["#SBC", "#pensamentocomputacional"]}
   >
     <p>
