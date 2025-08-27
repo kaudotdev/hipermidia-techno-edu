@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoPrivacidade: React.FC = () => (
   <ArticlePage
     title="Privacidade em Risco: Como Proteger os Dados dos Alunos na Era das Plataformas Educacionais?"
-    image="src/assets/seguranca.png"
+    image="https://i.postimg.cc/gjSrFYQ6/seguranca.webp"
     tags={["#SegurançaDigital", "#LGPD", "#CidadaniaDigital", "#Privacidade"]}
   >
     <div className="text-base text-justify text-[#403D5C] space-y-5">
