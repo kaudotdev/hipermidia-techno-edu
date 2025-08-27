@@ -1,6 +1,6 @@
 const ferramentas = [
     {
-        logo: "https://iili.io/KHRTUEF.md.png",
+        logo: "https://i.postimg.cc/3rSwwxfk/padlet.webp",
         title: "Padlet",
         desc: (
             <>
@@ -10,7 +10,7 @@ const ferramentas = [
         link: "https://padlet.com",
     },
     {
-        logo: "https://iili.io/KHREcp1.png",
+        logo: "https://i.postimg.cc/V6Fdg9Fg/classroom.webp",
         title: "Google Classroom",
         desc: (
             <>
@@ -20,7 +20,7 @@ const ferramentas = [
         link: "https://classroom.google.com",
     },
     {
-        logo: "https://iili.io/KHRTeIV.png",
+        logo: "https://i.postimg.cc/NMQ0K9wH/khan-academy.webp",
         title: "Khan Academy",
         desc: (
             <>
@@ -30,7 +30,7 @@ const ferramentas = [
         link: "https://pt.khanacademy.org",
     },
     {
-        logo: "https://iili.io/KHRTvLP.md.png",
+        logo: "https://i.postimg.cc/VvL5VSG8/youtube.webp",
         title: "Youtube",
         desc: (
             <>
@@ -40,7 +40,7 @@ const ferramentas = [
         link: "https://www.youtube.com",
     },
     {
-        logo: "https://iili.io/KHRTkhB.png",
+        logo: "https://i.postimg.cc/d1nVrsqS/meet.webp",
         title: "Google Meet",
         desc: (
             <>
@@ -50,7 +50,7 @@ const ferramentas = [
         link: "https://meet.google.com",
     },
     {
-        logo: "https://iili.io/KHRTNmQ.png",
+        logo: "https://i.postimg.cc/fbm3tQt6/udemy.webp",
         title: "Udemy",
         desc: (
             <>
