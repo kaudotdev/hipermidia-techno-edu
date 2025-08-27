@@ -4,32 +4,32 @@ const posts = [
     {
         title: 'Para Além do "Usar a Internet": O que é o Pensamento Computacional e por que a SBC insiste tanto nele?',
         tags: ["#SBC", "#pensamentocomputacional"],
-        image: "https://iili.io/KHRTV1e.md.png",
+        image: "https://i.postimg.cc/L8f4vB9P/pensamento.webp",
     },
     {
         title: "Gamificação: 5 Estratégias para Aumentar o Engajamento (que não são apenas joguinhos)",
         tags: ["#Gamificacao", "#MetodologiasAtivas", "#EngajamentoEscolar", "#EdTech"],
-        image: "https://iili.io/KHRoGS4.md.png",
+        image: "https://i.postimg.cc/024rVy7T/gamificacao.webp",
     },
     {
         title: "O Desafio da Conexão: Histórias de Escolas Rurais que Inovam Apesar da Desigualdade Digital",
         tags: ["#InclusãoDigital", "#DesigualdadeSocial", "#EducaçãoRural", "#PolíticasPúblicas"],
-        image: "https://iili.io/KHRE1hg.md.png",
+        image: "https://i.postimg.cc/6Qr36VFK/inovacao.webp",
     },
     {
         title: "Ferramentas Digitais Gratuitas que Todo Professor Deveria Conhecer em 2025",
         tags: ["#FerramentasDigitais", "#TecnologiaEducacional", "#SoftwareLivre", "#Professores"],
-        image: "https://iili.io/KHREVEv.md.png",
+        image: "https://i.postimg.cc/zD0yRjvX/ferramentas.webp",
     },
     {
         title: '"Professor, isso é para hoje?" - A Formação Docente na Era Digital',
         tags: ["#FormaçãoDeProfessores", "#CapacitaçãoDocente", "#LetramentoDigital", "#Desafios" ],
-        image: "https://iili.io/KHRT0I2.md.png",
+        image: "https://i.postimg.cc/Kv183hCJ/profs.webp",
     },
     {
         title: "Privacidade em Risco: Como Proteger os Dados dos Alunos na Era das Plataformas Educacionais?",
         tags: ["#SegurançaDigital", "#LGPD", "#CidadaniaDigital", "#Privacidade"],
-        image: "https://iili.io/KHRTSB1.md.png",
+        image: "https://i.postimg.cc/gjSrFYQ6/seguranca.webp",
     },
 ];
 
