@@ -46,10 +46,11 @@ export default function ContatoSection() {
                             Enviar
                         </button>
                     </form>
-                    {/* Detalhes */}
+
                     <div className="flex-1 bg-[#F4F2FB] rounded-2xl p-4 sm:p-6 flex flex-col gap-2 sm:gap-3">
                         <h2 className="font-bold text-[#6D6594] text-base sm:text-lg mb-1 sm:mb-2">Nossos detalhes</h2>
                         <div className="text-[#6D6594] text-sm mb-2">
+                            <span className="font-semibold">Trabalho por:</span> Kauan Souza e Vitória Santos<br />
                             <span className="font-semibold">E-mail:</span> contato@edutech.com.br<br />
                             <span className="font-semibold">Telefone:</span> (71) 94002-8922<br />
                             <span className="font-semibold">Endereço:</span> R. Francisco Drumond, 123 - Centro, Camaçari - BA<br />
