@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoInovacao: React.FC = () => (
     <ArticlePage
         title="O Desafio da Conexão: Histórias de Escolas Rurais que Inovam Apesar da Desigualdade Digital"
-        image="src/assets/inovacao.png"
+        image="https://i.postimg.cc/6Qr36VFK/inovacao.webp"
         tags={["#InclusãoDigital", "#DesigualdadeSocial", "#EducaçãoRural", "#PolíticasPúblicas"]}
     >
       <div className="text-base text-justify text-[#403D5C] space-y-5">
