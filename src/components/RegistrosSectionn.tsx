@@ -2,7 +2,7 @@ const registros = [
     {
         title: "Estudantes de Salvador assistem aulas com conteúdos digitais e chromebooks pelo projeto e-Nova Educação",
         meta: "Redação do Jornal Grande Bahia • Cultura • Abril 11, 2018",
-        image: "https://iili.io/KHRThdb.md.png",
+        image: "https://i.postimg.cc/zBNyT2T3/registro-salvador.webp",
         desc: "Projeto e-NOVA aplicado no Colégio Luis Fernando Macedo, em Salvador.",
         pub: " ",
         link: "https://jornalgrandebahia.com.br/2018/04/estudantes-de-salvador-assistem-aulas-com-conteudos-digitais-e-chromebooks-pelo-projeto-e-nova-educacao/",
@@ -10,7 +10,7 @@ const registros = [
     {
         title: "Educadoras mineiras ganham viagem à sede do Google nos EUA por práticas inovadoras na rede estadual",
         meta: "",
-        image: "https://iili.io/KHRTcml.md.png",
+        image: "https://i.postimg.cc/7YtJjVrQ/registro-minas.webp",
         desc: "Selecionadas pelo Programa Multiplica Plus, seis profissionais vão participar de imersão na Califórnia com tudo custeado pelo Governo de Minas e Google",
         pub: "",
         link: "https://www.educacao.mg.gov.br/educadoras-mineiras-ganham-viagem-a-sede-do-google-nos-eua-por-praticas-inovadoras-na-rede-estadual/",
@@ -18,7 +18,7 @@ const registros = [
     {
         title: "Escola modelo em Goiás e elogia avanços tecnológicos na Educação do estado",
         meta: "Última Atualização em 19 de março de 2025 • Categoria Notícias",
-        image: "https://iili.io/KHRTae4.md.png",
+        image: "https://i.postimg.cc/5NDNwkV1/registro-goias.webp",
         desc: "",
         pub: "",
         link: "https://goias.gov.br/educacao/google-for-education-visita-escola-modelo-em-goias-e-elogia-avancos-tecnologicos-na-educacao-do-estado/",
@@ -26,7 +26,7 @@ const registros = [
     {
         title: "A MCC constrói uma nova referência para a educação inteligente no norte das Filipinas com a digitalização",
         meta: "",
-        image: "src/assets/registros_filipinas.png",
+        image: "https://i.postimg.cc/W1DqVk2p/registros-filipinas.webp",
         desc: "A MCC constrói uma nova referência para a educação inteligente no norte das Filipinas com a digitalização",
         pub: "",
         link: "https://e.huawei.com/br/case-studies/industries/education/mcc-new-benchmark-smart-education",
