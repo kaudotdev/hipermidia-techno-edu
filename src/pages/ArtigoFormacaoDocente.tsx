@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoFormacaoDocente: React.FC = () => (
   <ArticlePage
     title='"Professor, isso é para hoje?" - A Formação Docente na Era Digital'
-    image="src/assets/profs.png"
+    image="https://i.postimg.cc/Kv183hCJ/profs.webp"
     tags={["#FormaçãoDeProfessores", "#CapacitaçãoDocente", "#LetramentoDigital", "#Desafios"]}
     imageClassName="object-top"
   >
