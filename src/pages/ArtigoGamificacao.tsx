@@ -4,7 +4,7 @@ import React from "react";
 const ArtigoGamificacao: React.FC = () => (
     <ArticlePage
         title="Gamificação: 5 Estratégias para Aumentar o Engajamento (que não são apenas joguinhos)"
-        image="src/assets/gamificacao.png"
+        image="https://i.postimg.cc/024rVy7T/gamificacao.webp"
         tags={["#Gamificacao", "#MetodologiasAtivas", "#EngajamentoEscolar", "#EdTech"]}
     >
       <div className="text-base text-justify text-[#403D5C] space-y-5">
